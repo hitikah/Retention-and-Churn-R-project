@@ -1,1 +1,2 @@
 # Retention-and-Churn-R-project
+This project aims to predict ISMS Durables' customer retention in 2004 based on purchase history from 1998-2002. Data is preprocessed, features are engineered, and missing values are handled by taking mean values for numeric variables and unknown for categorical variables. Recency, frequency, and monetary variables are also created. The dataset is split into training (1998-2002) and test data (2003-2004).
